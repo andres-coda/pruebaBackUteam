@@ -1,10 +1,10 @@
 ## Description
 
 El proyecto permite:
-  -crear, leer, editar y eliminar personas de una lista de personas
-  -crear, leer, editar y eliminar peliculas de una lista de peliculas
-  -añadir y quitar peliculas de favoritos de cada persona.
-  -tiene una constante de maximas peliclas favoritas.
+  ---> crear, leer, editar y eliminar personas de una lista de personas
+  ---> crear, leer, editar y eliminar peliculas de una lista de peliculas
+  ---> añadir y quitar peliculas de favoritos de cada persona.
+  ---> tiene una constante de maximas peliclas favoritas.
 
 
 Requiere una base de datos de tipo mysql vacía en el localHost con estos datos:
